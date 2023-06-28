@@ -5,4 +5,4 @@ https://drive.google.com/file/d/15fa24K_GiusH2oRGwyhUGTn44_PfF3Gg/view
 # PROJECT REPORT LINK:
 https://drive.google.com/file/d/1MFTv03Dp2UbQzFXyqcImgURUwCAtxD5O/view?usp=sharing
 # ASSIGNMENTS LINK:
-https://github.com/Yashjain1602/Accurate-Body-Fat-Prediction/tree/main/20BLC1058_Yash_Jain_Smartbridge_Applied_Data_Science_Assignments
+https://drive.google.com/drive/folders/19xIlmzujy_0SXYO2Rkf4x1PQGqVg4YYl?usp=sharing
